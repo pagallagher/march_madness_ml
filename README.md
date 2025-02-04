@@ -1,5 +1,5 @@
 # march_madness_ml
-a straight clone of an existing kaggle project with my model dropped in instead
+An existing kaggle project with my model dropped in instead
 
 
 https://www.kaggle.com/c/ncaam-march-mania-2021/data
